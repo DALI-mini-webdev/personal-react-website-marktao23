@@ -1,6 +1,12 @@
 import './App.css';
 
 function App() {
+  const number = 30;
+  
+  if (number === 30) {
+    console.log("the number is 30!")
+  }
+  
   return (
     
     <div>
