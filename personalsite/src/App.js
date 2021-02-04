@@ -3,6 +3,12 @@ import NavBar from "./components/NavBar/NavBar";
 import React from 'react';
 
 function App() {
+  const number = 30;
+  
+  if (number === 30) {
+    console.log("the number is 30!")
+  }
+  
   return (
     
     <div>
