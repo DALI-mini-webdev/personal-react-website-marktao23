@@ -1,9 +1,14 @@
 import './App.css';
+import NavBar from "./components/NavBar/NavBar";
+import React from 'react';
 
 function App() {
   return (
     
     <div>
+      <div className="App">
+      <NavBar />
+      </div>
       <audio src="07 Like a Virgin.mp3" controls></audio>
       <br></br>
       <br></br>
