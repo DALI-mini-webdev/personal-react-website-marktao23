@@ -1,5 +1,3 @@
-import './App.css';
-import NavBar from "./components/NavBar/NavBar";
 import React from 'react';
 
 function App() {
