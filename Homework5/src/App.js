@@ -27,19 +27,19 @@ function App() {
             get to learn more about web development and more! Looking forward to the term everybody!
         
             <div id="paddy">
-              By the way, I also have another family member: my German Shepherd. Here is a picture of him:
+              Here's a picture of me!
             </div>
             
             <div>
               <img src="IMG_4671.jpg" alt="missing image" width="260" height="200">
               </img>
                 <div id="caption">
-                  (this was him right after the vet)
+                  (mirror pic!)
                 </div>
             </div>
     
             <div id= "paddy">
-              and here's a video of him eating peanut butter!
+              also: here's a video of my german shepherd eating peanut butter!
             </div>
             
             <div>
@@ -56,8 +56,6 @@ function App() {
             <div className='todo-app'>
               <TodoList />
             </div>
-
-            <div>https://cat-fact.herokuapp.com/facts</div>
 
           </div>
         </center>    
